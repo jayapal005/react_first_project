@@ -1,0 +1,135 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+background: url(../src/j2.jpg);
+background-size: cover;
+}
+
+.condainer{
+  height: 680px;
+  width: 60%;
+  margin-left: 50% auto;
+  background-color: rgb(0,0,0,0.6);
+  margin-left: 275px;
+  margin-top: 20px;
+  
+}
+#h11{
+height: 40px;
+width: 290px;
+border: none;
+outline: none;
+border-bottom: 1px solid black;
+background: transparent;
+}
+#h12{
+height: 40px;
+width: 290px;
+border: none;
+outline: none;
+color:rgb(182, 179, 179); 
+background: transparent;
+}
+#i1{
+  height: 40px;
+width: 290px;
+border: none;
+outline: none;
+border-bottom: 1px solid black;
+background: transparent;
+}
+#h13{
+  height: 40px;
+width: 290px;
+border: none;
+outline: none;
+color:rgb(182, 179, 179); 
+background: transparent;
+}
+input::placeholder{
+ color: rgb(182, 179, 179);
+
+}
+h1{
+  display: flex;
+  justify-content: space-around;
+  color: whitesmoke;
+  background-color: rgb(0,0,0,0.6);
+  width: 100%;
+  
+}
+.input{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-flow: row wrap;
+  row-gap: 10px;
+}
+small{
+color: red;
+
+}
+#e{
+width: 700px;
+
+
+}
+input{
+height: 40px;
+width: 290px;
+border: none;
+outline: none;
+border-bottom: 1px solid black;
+background: transparent;
+
+
+}
+
+
+
+#button{
+  margin-top: 20px;
+  margin-left: 350px;
+  height: 30px;
+  width: 100px;
+  font-weight: bold;
+  color: whitesmoke;
+  background-color: green;
+}
+
+#Gendar{
+  color:  rgb(223, 209, 209);
+   margin-left: 55px;
+}
+
+#radio1{
+  margin-left: -80px;
+  margin-top: 10px;
+  height: 20px;
+}
+#radio2{
+  margin-left: -80px;
+  margin-top: 10px;
+  height: 20px;
+}
+#g1{
+  display: flex;
+  margin-left: 80px;
+  margin-top: -25px;
+  color: whitesmoke;
+}
+#g2{
+  display: flex;
+  margin-left: 80px;
+  margin-top: -25px;
+  color: whitesmoke;
+}
+#hml1{
+  color: red;
+  margin-left: 60px;
+}
+#g{
+  color:rgb(182, 179, 179);
+}
